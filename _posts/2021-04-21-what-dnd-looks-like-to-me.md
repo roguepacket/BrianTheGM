@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What D&D Looks Like to Me"
-author: brian
+author: mr. m
 ---
 
 I had a bit of an “ah-ha!” moment while reading issue one of [*Knock!*](https://www.themerrymushmen.com/product/knock1/) Since I have switched from DMing modern systems, mostly 5e, to B/X and 1e, I have somewhat struggled to convey my reasons for doing so. Of course, I do not need to explain myself to anyone, but when most of your D&D friends play 5e and you still want to run games for them, it is kind of important. Ultimately, I realized my preference for B/X over more codified systems can be described using the OSR mantra “Rulings, Not Rules.” You will hear this ad nauseam within any online OSR community such as r/osr, but Arnold K’s article, “Rulings Not Rules is Insufficient” put it in a way that clicked, and finally allows me to communicate the style of game I run to potential players.
