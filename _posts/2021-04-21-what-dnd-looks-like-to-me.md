@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What D&D Means to Me"
+title:  "What D&D Looks Like to Me"
 author: brian
 ---
 
