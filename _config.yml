@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: <a href="https://roguepacket.github.io/BrianTheGM/">BrianTheGM</a>
+title: <a href="https://roguepacket.github.io/MrM/">Mr. M</a>
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yet another tabletop rpg blog.
-#baseurl: "/BrianTheGM" # the subpath of your site, e.g. /blog
+#baseurl: "/MrM" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  BrianTheGM
+#github_username:  Mr. M
 permalink: /:year/:month/:day/:title:output_ext
 
 # Build settings
