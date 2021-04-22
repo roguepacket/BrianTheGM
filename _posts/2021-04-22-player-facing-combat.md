@@ -8,7 +8,7 @@ About two months back I came across a Dungeon Craft video on [player-facing comb
 
 Of my six players, only one has said they prefer me making the attack rolls for the monsters. The others seem to like it as they get to roll more often. I’m fairly indifferent about it, I guess. With most of the players enjoying it I may just keep going with it. As the GM, I end up rolling enough and usually jump at the chance to allow my players to take over tasks when possible.
 
-As a side-note, while deciding if I wanted to implement "defensive rolls" I also found out Moldvay/Cook's B/X makes it appearthe DM makes all damage rolls, even for player's attacks (page B25).
+As a side-note, while deciding if I wanted to implement "defensive rolls" I also found out Moldvay/Cook's B/X makes it appear that the DM makes all damage rolls, even for player's attacks (page B25).
 
 ![image](https://user-images.githubusercontent.com/20031178/115779323-d5ed2b00-a385-11eb-8329-90180682b0d1.png)
 
