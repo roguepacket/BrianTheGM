@@ -12,4 +12,4 @@ As a side-note, while deciding if I wanted to implement "defensive rolls" I also
 
 ![image](https://user-images.githubusercontent.com/20031178/115779323-d5ed2b00-a385-11eb-8329-90180682b0d1.png)
 
-After seeing this, I went through every edition from OD&D to 5e and B/X is the only edition that states is in this manner. Although, I do somewhat like the idea of the DM rolling all damage, I think my group is well beyond the point of changing that now.
+After seeing this, I went through every edition from OD&D to 5e and B/X is the only edition that states it in this manner. Although, I do somewhat like the idea of the DM rolling all damage, I think my group is well beyond the point of changing that now.
