@@ -9,7 +9,7 @@ layout: default
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <br />{{ post.excerpt | strip_html |strip_newlines | truncate: 240 }}
+      <br />{{ post.excerpt | strip_html |strip_newlines | truncate: 240 }}<br />
     </li>
   {% endfor %}
 </ul>
