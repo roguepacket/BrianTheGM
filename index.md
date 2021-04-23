@@ -4,7 +4,7 @@
 
 layout: default
 ---
-
+[About](/about/)
 <ul>
   {% for post in site.posts %}
     <li>
