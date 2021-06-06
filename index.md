@@ -8,7 +8,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br />
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> | {{ post.date | date_to_string }}<br />
       {{ post.excerpt | strip_html |strip_newlines | truncate: 240 }}<br /><br />
     </li>
   {% endfor %}
