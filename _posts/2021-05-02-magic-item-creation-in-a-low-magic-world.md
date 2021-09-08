@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Magic Item Creation in a Low-Magic World"
+author: mr. m
+---
+
+I recently had a player in my B/X game create a Magic User for their first time. Well, not his first time, technically. Earlier him and I homebrewed a spell list based on Matt Mercer’s Dunamancy school of magic for a character he made. However, pretty early on he got teleported to a pocket dimension by reading a cursed spellbook where he was promptly murdered by the spellbook’s owner. But not before stealing the bad guy’s sweet purple and gold robes. The issue is he cannot see the fun in playing the class rules-as-written (RAW). So, in an attempt to find the fun, he decided to give it go and just play one. 
+
+One of the player’s biggest gripes is, of course, the lack of spells and general usability at low level, but really anything under level nine. Like a lot of players, they struggle to see the value in many of the spells, especially when you’re limited in the number of times you can cast spells during the day. This is, of course, where scrolls come in. However, unless the GM is littering dungeons with scrolls, how are magic users supposed to acquire them? Make them? Not before nineth level. Buy them? Sure, maybe in the right town, but how much would they cost? In Moldvay/Cook’s B/X, magic items, including scrolls, cost one week of game time plus 500gp per spell level to create. To come up with a simple market value you could double the gold cost. However, that means scrolls become incredibly expensive for a low-level party and the Magic User now costs the party a lot more cash than anyone else which, I guess isn’t too much of an issue.
+
+Holmes Basic is much cheaper at 100gp and one week’s time per spell level, but then you have a situation where scrolls are relatively cheap. If you’re also allowing Magic Users to copy spells from scrolls into their spell books, a low magic setting is kind of out the window as there would certainly be institutions cranking out scrolls for Magic Users to leverage in learning new spells.
+
+I think a middle ground could be found where, yes, institutions are attempting to mass produce scrolls, but it is expensive. That could certainly lead to interesting adventures on its own. However, the issue then becomes the level requirement to scribe these scrolls. RAW in B/X or BECMI is level nine. It makes sense for a semi-retired Magic User to leverage their skills in scribing scrolls for some extra cash, but it doesn’t really help players for the majority of their career.
